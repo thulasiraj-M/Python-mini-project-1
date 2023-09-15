@@ -1,0 +1,3 @@
+https://github.com/rishabh-karmakar/Facial-Recognition-Based-Attendance-System
+
+https://github.com/sharmaji27/face-recognition-based-attendance-system
